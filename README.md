@@ -1,20 +1,30 @@
 # API Testing Project
 
-This repository contains API testing work using Postman collections.
+This project demonstrates hands-on API testing using Postman on a REST API. I executed requests, validated responses, and verified data accuracy to simulate real QA workflows.
 
 ## Overview
-The project demonstrates testing of REST APIs including request execution, response validation, and data verification.
+Tested REST APIs by sending requests, validating responses, and ensuring data accuracy and expected behavior.
 
 ## Tools Used
 - Postman
 - JSON
 
+## Test Scenarios
+- Validated successful requests return correct status codes
+- Tested invalid endpoints and verified error handling
+- Verified JSON response structure and required fields
+- Performed positive and negative testing
+
 ## Responsibilities
 - Executed API requests and validated response status codes
 - Verified JSON response structure and data accuracy
 - Tested API endpoints for expected behavior
-- Performed positive and negative testing
+
+## How to Use
+1. Import the Postman collection
+2. Import the environment file
+3. Run the requests
+4. Validate responses and data
 
 ## Notes
-Updated in 2026.  
-Demonstrates API testing skills used in real project environments.
+Demonstrates practical API testing skills aligned with real-world QA workflows.
